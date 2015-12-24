@@ -14,6 +14,8 @@ Voor data1 en data2: enable-migrations
 
 connectionstring naar een (niet bestaande) database laten wijzen
 
+In beide data projecten de dbcontext van de base afleiden met de naam van de connection string
+
 data1 : 
    add-migration -initialCreate 
    update-database
