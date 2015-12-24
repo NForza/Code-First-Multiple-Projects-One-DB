@@ -1,0 +1,14 @@
+c:\users\robert\documents\visual studio 2015\Projects\EFMultipleProjectCodeFirst\Data2\bin\Debug\Data2.dll
+c:\users\robert\documents\visual studio 2015\Projects\EFMultipleProjectCodeFirst\Data2\bin\Debug\Data2.pdb
+c:\users\robert\documents\visual studio 2015\Projects\EFMultipleProjectCodeFirst\Data2\obj\Debug\Data2.csprojResolveAssemblyReference.cache
+c:\users\robert\documents\visual studio 2015\Projects\EFMultipleProjectCodeFirst\Data2\obj\Debug\Data2.dll
+c:\users\robert\documents\visual studio 2015\Projects\EFMultipleProjectCodeFirst\Data2\obj\Debug\Data2.pdb
+c:\users\robert\documents\visual studio 2015\Projects\EFMultipleProjectCodeFirst\Data2\bin\Debug\Data2.dll.config
+c:\users\robert\documents\visual studio 2015\Projects\EFMultipleProjectCodeFirst\Data2\bin\Debug\EntityFramework.dll
+c:\users\robert\documents\visual studio 2015\Projects\EFMultipleProjectCodeFirst\Data2\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\robert\documents\visual studio 2015\Projects\EFMultipleProjectCodeFirst\Data2\bin\Debug\EntityFramework.xml
+c:\users\robert\documents\visual studio 2015\Projects\EFMultipleProjectCodeFirst\Data2\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\robert\documents\visual studio 2015\Projects\EFMultipleProjectCodeFirst\Data2\obj\Debug\Data2.Migrations.AddedToExisting.resources
+c:\users\robert\documents\visual studio 2015\Projects\EFMultipleProjectCodeFirst\Data2\obj\Debug\Data2.csproj.GenerateResource.Cache
+c:\users\robert\documents\visual studio 2015\Projects\EFMultipleProjectCodeFirst\Data2\obj\Debug\Data2.Migrations.AddedDescription.resources
+c:\users\robert\documents\visual studio 2015\Projects\EFMultipleProjectCodeFirst\Data2\obj\Debug\Data2.Migrations.eentelling.resources
