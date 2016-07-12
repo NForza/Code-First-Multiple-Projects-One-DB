@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/NForza/nforza-presentations-courses/master/nforza-logo.png" width="100px" style="margin: auto" />
+
 Dit is een test project om te kijken of we met Code first migrations uit verschillende assemblies naar dezelfde database kunnen.
 
 Let op! Requirement: EF 6 minimaal.
